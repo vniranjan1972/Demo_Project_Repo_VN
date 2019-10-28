@@ -5,7 +5,7 @@ class HelloWorld
 	public static void main(String args[]) 
 	{ 
 
-		System.out.println("Hello, World - Bangalore, KA, IN"); 
+		System.out.println("Hello, World - Bangalore, KA, IND"); 
 
 	} 
 } 
