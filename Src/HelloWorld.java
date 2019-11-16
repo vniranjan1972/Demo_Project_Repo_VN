@@ -4,8 +4,6 @@ class HelloWorld
 { 
 	public static void main(String args[]) 
 	{ 
-
-		System.out.println("Hello, World - Bangalore, KA, INDIA"); 
-
+		System.out.println("Hello, World - Bangalore, KAR, India"); 
 	} 
 } 
