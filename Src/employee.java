@@ -5,7 +5,7 @@ class employee
 
 		System.out.println("Add Employee"); // New Changes
 		System.out.println("Niranjan"};
-	///	System.out.println("addEmployee1"); 
+	////	System.out.println("addEmployee1"); 
 
 	} 
 } 
