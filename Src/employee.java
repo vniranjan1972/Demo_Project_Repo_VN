@@ -1,4 +1,4 @@
-class employee 
+class employee1 
 { 
 	public static void addEmployee(arg:int) 
 	{ 
